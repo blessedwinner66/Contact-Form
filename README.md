@@ -26,9 +26,6 @@ project/
 ├── package.json
 └── .env // (optional for future config)
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -36,7 +33,7 @@ Edit
 
 1. **Clone the repository**:
 
-```bash
+
 git clone https://github.com/blessedwinner66/Contact-Form.git
 
 Install dependencies:
